@@ -1,4 +1,4 @@
 eureka.client.serviceUrl.defaultZone = http://${registry.host:localhost}:${registry.port:8000}/eureka/
 eureka.client.registerWithEureka = true
 eureka.client.fetchRegistry = true
-com.cts=Hellothese valuse form local git Properties files
+dbValues= these valuse form local git Properties files {connectionURL:'http://localhost:8080',userName:'Somasekhar', pass:'Somu@123'}
